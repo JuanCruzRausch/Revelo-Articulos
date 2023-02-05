@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo",
+    "image": "https://www.zelda.com/breath-of-the-wild/assets/media/wallpapers/desktop-1.jpg",
+    "release_date": "2017-03-03",
+    "platforms": ["Nintendo Switch", "Wii U"]
+  },
+  {
+    "id": 1,
+    "title": "Super Mario Bros.",
+    "developer": "Nintendo",
+    "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/portals_3/2x1_SuperMarioHub.jpg",
+    "release_date": "1985-09-13",
+    "platforms": ["Nintendo Entertainment System"]
+  },
+  {
+    "id": 2,
+    "title": "Grand Theft Auto V",
+    "developer": "Rockstar North",
+    "image": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/1280/V.jpg",
+    "release_date": "2013-09-17",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One",
+      "PC"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Minecraft",
+    "developer": "Mojang Studios",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg",
+    "release_date": "2011-11-18",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One",
+      "PC",
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ]
+  }
+]
